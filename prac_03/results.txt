@@ -1,0 +1,5 @@
+63 is Passable
+78 is Passable
+24 is Bad
+13 is Bad
+67 is Passable
